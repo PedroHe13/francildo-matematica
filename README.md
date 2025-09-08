@@ -50,7 +50,9 @@ Este projeto foi desenvolvido como parte da disciplina **Práticas Experimentais
 
 ## 🚀 Como Jogar
 
-1. Clone este repositório: apenas extraia o win rar do repositorio, dentro dele havera um executavel do game
+1. Clone este repositório: baixe e extraia o win rar do link abaixo, dentro dele havera um executavel do game
+
+   https://www.mediafire.com/file/le8054vnza656s1/FRANCILDO_MATEMATICA.rar/file
 
 
 ---
